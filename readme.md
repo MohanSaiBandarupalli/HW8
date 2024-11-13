@@ -1,1 +1,1 @@
-![Docker Image Uploaded Image: ]("C:\Users\mohan\OneDrive\Desktop\docker.png")
+![Docker Image](/home/mohansaib/HW8/docker.png)
